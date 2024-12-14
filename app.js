@@ -40,7 +40,7 @@ const messages = [
 ];
 
 // Endpoint pour obtenir un message aléatoire
-app.get('/random-message', (req, res) => {
+app.get('/', (req, res) => {
     const { category } = req.query;
 
     // Filtrer les messages si une catégorie est spécifiée
