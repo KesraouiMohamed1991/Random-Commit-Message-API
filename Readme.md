@@ -92,7 +92,7 @@ This is a fun way to enhance your Git commit history while staying relatable in 
    ```
 5. Access the API at:
    ```
-   http://localhost:3000/random-message
+   http://localhost:3000/
    ```
 
 ---
